@@ -1,0 +1,21 @@
+.summary-cards{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 20px;
+}
+
+.summary-card{
+    padding: 20px;
+    border-radius: 12px;
+    background-color: white;
+}
+
+.summary-card span{
+    font-size: 14px;
+}
+
+.summary-card h2{
+    margin-top: 10px;
+    font-size: 28px;
+}
+
