@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\server",
+    "\\server\\EmployeeApp.Api",
+    "\\server\\EmployeeApp.Api\\controllers",
+    "\\server\\EmployeeApp.Api\\data",
+    "\\server\\EmployeeApp.Api\\DTOs",
+    "\\server\\EmployeeApp.Api\\models",
+    "\\server\\EmployeeApp.Api\\services"
+  ],
+  "SelectedNode": "\\server\\EmployeeApp.Api\\models\\User.cs",
+  "PreviewInSolutionExplorer": false
+}
