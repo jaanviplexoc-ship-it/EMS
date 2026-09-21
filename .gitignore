@@ -1,0 +1,15 @@
+# React
+node_modules/
+dist/
+.env
+package.json
+package-lock.json
+vite.config.js
+
+# .NET
+bin/
+obj/
+
+# Visual Studio Code
+.vscode/
+.vs
